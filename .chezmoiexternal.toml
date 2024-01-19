@@ -1,7 +1,7 @@
 [".config/nvim"]
     type = "archive"
     url = "https://github.com/ptrant/nvim-config/archive/main.zip"
-    exact = true
+    exact = false  # keep downloaded plugins
     stripComponents = 1
     refreshPeriod = "168h"
 
